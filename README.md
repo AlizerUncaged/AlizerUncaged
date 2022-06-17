@@ -1,4 +1,5 @@
 
+
 <div>
   <img width="220" align="left" src="https://i.ibb.co/fp02qgy/image-removebg-preview-7.png"/>
   <br>
@@ -12,9 +13,9 @@
 </div>
 
 ## 🤝 About Me
-![](https://img.shields.io/badge/Stack-.NET-32C890) ![](https://img.shields.io/badge/IDE-Rider-EC7088) ![](https://img.shields.io/badge/Language-JS-FDE6BC) ![](https://img.shields.io/badge/Language-CSharp-6247E2) ![](https://img.shields.io/badge/Language-Python-B8DDF8)  ![](https://img.shields.io/badge/OS-Windows-DE5BB9)   ![](https://img.shields.io/badge/OS-Debian-9885E1) 
+![](https://img.shields.io/badge/Stack-.NET-32C890) ![](https://img.shields.io/badge/IDE-Rider-EC7088) ![](https://img.shields.io/badge/Language-JS-FDE6BC) ![](https://img.shields.io/badge/Language-CSharp-6247E2) ![](https://img.shields.io/badge/Language-Python-B8DDF8)   ![](https://img.shields.io/badge/Language-C++-98EDF0)  ![](https://img.shields.io/badge/OS-Windows-DE5BB9)   ![](https://img.shields.io/badge/OS-Debian-9885E1)  ![](https://img.shields.io/badge/Database-MySQL-FFE1D9)  ![](https://img.shields.io/badge/Database-SQLite-2EE5ED) ![](https://img.shields.io/badge/DevOps-Github-32C890)  ![](https://img.shields.io/badge/DevOps-Github-FFE4D9) 
 
-🤨 I am not contented with mundane and uninteresting UIs; instead, I strive towards flair and a better user experience.
+💯 I am not contented with mundane and uninteresting UIs; instead, I strive towards flair and a better user experience.
 <p align="center">
   <img src="https://i.ibb.co/9sW92Zw/pos2.png" />
 </p>
