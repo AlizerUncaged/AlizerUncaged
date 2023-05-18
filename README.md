@@ -21,12 +21,6 @@
 </p>
 
 
-### 👨‍💻 I am an expert in-
-- ‎😃 User experience and human-first design approach.
-- ✨ Simplicity and minimalism.
-- 🎨 Color theory and practical use.
-- 🔬 User research.
-- 🧏🏻‍♀️ User interaction and psychology.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlizerUncaged/AlizerUncaged/main/github-metrics.svg" />
